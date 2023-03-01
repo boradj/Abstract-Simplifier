@@ -5,4 +5,4 @@ This project's goal is to support researchers in their analysis. Each researcher
 
 ## Data 
 
- the authors of the paper have made the data they used for their research availably publically and for free in the form of .txt files [https://github.com/Franck-Dernoncourt/pubmed-rct](on GitHub).
+ the authors of the paper have made the data they used for their research availably publically and for free in the form of .txt files (https://github.com/Franck-Dernoncourt/pubmed-rct)[on GitHub].
