@@ -1,3 +1,4 @@
 # Abstract-Simplifier📄🔥
 ## Objective
-Replicating the deep learning model behind the 2017 paper PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts.
+
+This project's goal is to support researchers in their analysis. Each researcher must quickly scan through numerous study articles in an effort to discover the ones that are relevant to the subject at hand. In order to select the applicable papers, they must read the abstracts of each one. Yet occasionally, if the abstract lacks a sufficient framework, it becomes time-consuming. This abstract-simplifier helps in making reading easier, quicker & efficient.
