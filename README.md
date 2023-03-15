@@ -15,4 +15,9 @@ This project's goal is to support researchers in their analysis. Each researcher
 
 - Downloading [Dataset](https://github.com/Franck-Dernoncourt/pubmed-rct).
 - Visualise and preprocess a data.
-- 
+- Experimenting with different model
+- Creating final model using transfer learning
+- Compararing all model results
+- Save and load best performing model
+- Evaluate model on test data
+- Find most wrong prediction
